@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "15.3.3",
+    "next": "15.3.6",
     "@upstash/redis": "1.34.0",
     "nanoid": "5.0.7"
   },
